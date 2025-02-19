@@ -1,6 +1,0 @@
-build-*
-.make/linker_output
-.ccls-cache
-out.ihx
-out.elf
-__pycache__
